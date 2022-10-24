@@ -26,6 +26,5 @@
     padding: .4em .6em;
 }
 .active{
-    color: #fff;
-    background-color: #000;
+    border-bottom: #000 1px solid;
 }

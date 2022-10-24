@@ -19,7 +19,7 @@ body {
   nav button {
     text-decoration: none;
     background-color: transparent;
-    border: none;
+    border-bottom: none;
     color: #000;
     transition: 0.4s;
     font-size: 1em;

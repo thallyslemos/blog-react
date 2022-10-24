@@ -1,7 +1,4 @@
-.App {
-  margin: 0;
-  text-align: center;
-}
-.container{
-  height: 60vh;
+.container {
+  min-height: 60vh;
+  margin-bottom: 5em;
 }
